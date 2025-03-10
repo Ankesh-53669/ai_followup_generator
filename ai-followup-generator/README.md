@@ -20,7 +20,7 @@ The AI Follow-Up Generator is a Flask-based web application that analyzes user-A
 
 ### 1. Clone the Repository
 ```bash
-git https://github.com/Ankesh-53669/ai-followup-generator.git
+git https://github.com/Ankesh-53669/ai_followup_generator.git
 cd ai-followup-generator
 ```
 
